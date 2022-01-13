@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Learning how to become a data scientist.
+Learning how to become a java developer.
